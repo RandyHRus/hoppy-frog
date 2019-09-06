@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Log
+  - Lily
+  - Background
+  - Frog
+  - Controller
+  - EnergyBarCanvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Jump on
+  - Frog
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackgroundWater
+    uniqueID: 3860907337
+    locked: 0
+  - name: Fish
+    uniqueID: 1600419163
+    locked: 0
+  - name: WaterTransparent
+    uniqueID: 2739117677
+    locked: 0
+  - name: Ripple
+    uniqueID: 1099836087
+    locked: 0
+  - name: Objects
+    uniqueID: 1131523709
+    locked: 0
+  - name: Lotus
+    uniqueID: 2398882257
+    locked: 0
+  - name: Frog
+    uniqueID: 2747219601
+    locked: 0
+  - name: SideRocks
+    uniqueID: 195315729
+    locked: 0
+  - name: SidePlants
+    uniqueID: 3493333217
+    locked: 0
+  - name: EnergyBar
+    uniqueID: 2708681819
+    locked: 0
+  - name: JoyStick
+    uniqueID: 633518963
+    locked: 0
+  - name: UI
+    uniqueID: 3722336591
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: cbf402d6ac381b84ea8a25668b0626d3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ripple: {fileID: 7511854266303657082, guid: 7e5e2563994d594468a2a77465960191,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
