@@ -1,4 +1,3 @@
 # FrogGame
-Frog game 
-
-Read this, thank-you.
+Casual phone game where you hop a frog on to lily pads while trying not to fall. 
+							Made with Unity, C#, and Gimp.
